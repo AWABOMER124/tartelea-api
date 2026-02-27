@@ -1,0 +1,19 @@
+{
+  "name": "tartelea-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "fastify": "^5.7.4",
+    "livekit-server-sdk": "^2.15.0",
+    "pg": "^8.19.0"
+  }
+}
